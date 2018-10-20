@@ -21,4 +21,14 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Parsa's code: 
+
+fill('night2')
+k = stamp('rocket11')
+text('TAP THE ROCKET!',200,100,'white')
+k.tap = tell
+
+function tell() {
+  sound('rocket')
+}
+
