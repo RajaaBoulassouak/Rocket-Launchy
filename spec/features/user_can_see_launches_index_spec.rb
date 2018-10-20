@@ -8,7 +8,9 @@ feature 'User can visits launches index page' do
     within(first(".launch")) do    
       expect(page).to have_css(".name")
       expect(page).to have_css(".date")
-      save_and_open_page
+      expect(page).to have_css(".location_name")
+      expect(page).to have_css(".location_url")
+      expect(page).to have_css(".rocket_name")
     end
   end
 end 

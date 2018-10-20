@@ -1,7 +1,6 @@
 class LaunchSearch 
   
   def initialize
-    
   end 
   
   def launches 
