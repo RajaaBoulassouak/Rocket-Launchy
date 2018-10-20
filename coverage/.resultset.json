@@ -1,0 +1,97 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/rajaaboulassouak/turing/3module/nasa_project/rocket_launch/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/rajaaboulassouak/turing/3module/nasa_project/rocket_launch/app/controllers/launches_controller.rb": [
+        1,
+        null,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/Users/rajaaboulassouak/turing/3module/nasa_project/rocket_launch/app/controllers/application_controller.rb": [
+        1,
+        null
+      ],
+      "/Users/rajaaboulassouak/turing/3module/nasa_project/rocket_launch/app/models/launch_search.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        2,
+        2,
+        null,
+        null,
+        2,
+        2,
+        2,
+        200,
+        null,
+        null,
+        null
+      ],
+      "/Users/rajaaboulassouak/turing/3module/nasa_project/rocket_launch/app/models/launch.rb": [
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        200,
+        200,
+        200,
+        200,
+        200,
+        null,
+        null,
+        null
+      ],
+      "/Users/rajaaboulassouak/turing/3module/nasa_project/rocket_launch/app/controllers/welcome_controller.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/rajaaboulassouak/turing/3module/nasa_project/rocket_launch/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/rajaaboulassouak/turing/3module/nasa_project/rocket_launch/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/rajaaboulassouak/turing/3module/nasa_project/rocket_launch/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/rajaaboulassouak/turing/3module/nasa_project/rocket_launch/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/rajaaboulassouak/turing/3module/nasa_project/rocket_launch/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1540073146
+  }
+}

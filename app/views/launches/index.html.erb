@@ -1,0 +1,12 @@
+<h1> Upcoming Launches </h1>
+
+<%= @search.launches.each do |launch| %>
+  <ul class="launch"> 
+    <li class="name"><%= launch.name if launch.name %></li>
+    <li class="date"><%= launch.date if launch.date %></li>
+    <li class="location_name"><%= launch.location_name if launch.location_name %></li>
+    <li class="location_url"><%= launch.location_url if launch.location_url %></li>
+    <li class="rocket_name"><%= launch.rocket_name if launch.rocket_name%></li>
+  </ul>
+  <br>
+<% end %>
